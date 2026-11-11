@@ -1,3 +1,14 @@
+> **CultureReset fork of [google/agentmesh](https://github.com/google/agentmesh).** SAM, a private network for AI agents: each node publishes tools, finds and calls what others publish, and carries a verifiable identity.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** Apache-2.0, from upstream. For updates and issues, use [upstream](https://github.com/google/agentmesh).
+>
+> The upstream README follows unchanged.
+
+---
+
 # SAM
 
 <img alt="SAM" src="site/content/docs/sam_logo.png" width="160" />
